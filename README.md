@@ -1,0 +1,50 @@
+### JOBSHEET 3 LOGIKA DAN ALGORITMA OPERATOR DAN UNGKAPAN
+
+#### Tujuan
+1. Mahasiswa mampu memahami dan menerapkan operator dan ungkapan dalam bahasa pemrograman C
+
+#### Landasan Teori
+#### Operator
+Operator atau tanda operasi adalah suatu tanda atau simbol yang digunakan untuk suatu operasi tertentu. Bahasa C merupakan bahasa yang kaya dengan operator. Bahasa C menyediakan banyak sekali operator, yaitu operator penugasan, operator aritmatika, operator tipe
+#### Macam-macam Operator dalam bahasa C
+| Nama Operator                    | Penjelasan                                                                               | Contoh Kode        |
+|----------------------------------|------------------------------------------------------------------------------------------|--------------------|
+| Operator Penugasan               | Operator penugasan digunakan untuk menetapkan nilai ke variabel                          | a = 10;            |
+| Operator Aritmatika              | Operator aritmatika digunakan untuk melakukan operasi matematika                         | a + b;             |
+| Operator Tipe                    | Operator tipe digunakan untuk menentukan tipe data suatu variabel                        | sizeof(a);         |
+| Operator Increment dan Decrement | Operator increment dan decrement digunakan untuk menambah atau mengurangi nilai variabel | a++;               |
+| Operator Relasional              | Operator relasional digunakan untuk membandingkan dua nilai                              | a == b;            |
+| Operator Logika                  | Operator logika digunakan untuk menggabungkan dua atau lebih ekspresi logika             | a && b;            |
+| Operator Bitwise                 | Operator bitwise digunakan untuk melakukan operasi pada bit                              | a & b;             |
+| Operator Ternary                 | Operator ternary digunakan untuk mengevaluasi ekspresi logika                            | (a == 10) ? a : b; |
+ | Operator Pointer                 | Operator pointer digunakan untuk mengakses alamat memori                                 | *a;                |
+| Operator Alamat                  | Operator alamat digunakan untuk mendapatkan alamat memori suatu variabel                 | &a;                |
+| Operator Indirect                | Operator indirect digunakan untuk mengakses nilai dari suatu alamat memori               | *a;                |
+| Operator sizeof                  | Operator sizeof digunakan untuk mendapatkan ukuran suatu tipe data                       | sizeof(a);         |
+
+#### Fungsi Pustaka
+Fungsi pustaka adalah fungsi yang sudah disediakan oleh bahasa pemrograman C. Fungsi pustaka ini dapat digunakan untuk mempermudah dalam menyelesaikan suatu program. Fungsi pustaka yang sering digunakan dalam bahasa C adalah fungsi pustaka untuk input dan output, fungsi pustaka untuk operasi matematika, fungsi pustaka untuk operasi string, fungsi pustaka untuk operasi file, dan fungsi pustaka untuk operasi waktu.
+
+#### Peralatan Praktikum (dibuat list)
+* Laptop
+* Koneksi internet 
+* Browser
+* Text Editor (CLion)
+* Terminal
+* Git
+* Github
+* C Compiler
+
+#### Hasil Praktikum
+| Nama File | Deskripsi | Screenshoot Output |
+|-----------|-----------|--------------------|
+| 1.c       |           |                    |
+| 2.c       |           |                    |
+| 3.c       |           |                    |
+
+
+#### Kesimpulan
+Dari hasil praktikum diatas dapat disimpulkan bahwa bahasa C merupakan bahasa yang kaya dengan operator. Dengan operator tersebut dapat mempermudah dalam menyelesaikan permasalahan sehari-hari.
+
+
+
