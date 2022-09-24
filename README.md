@@ -3,7 +3,7 @@
 #### Tujuan
 1. Mahasiswa mampu memahami dan menerapkan operator dan ungkapan dalam bahasa pemrograman C
 
-#### Landasan Teori
+### Landasan Teori
 #### Operator
 Operator atau tanda operasi adalah suatu tanda atau simbol yang digunakan untuk suatu operasi tertentu. Bahasa C merupakan bahasa yang kaya dengan operator. Bahasa C menyediakan banyak sekali operator, yaitu operator penugasan, operator aritmatika, operator tipe
 #### Macam-macam Operator dalam bahasa C
@@ -25,7 +25,7 @@ Operator atau tanda operasi adalah suatu tanda atau simbol yang digunakan untuk 
 #### Fungsi Pustaka
 Fungsi pustaka adalah fungsi yang sudah disediakan oleh bahasa pemrograman C. Fungsi pustaka ini dapat digunakan untuk mempermudah dalam menyelesaikan suatu program. Fungsi pustaka yang sering digunakan dalam bahasa C adalah fungsi pustaka untuk input dan output, fungsi pustaka untuk operasi matematika, fungsi pustaka untuk operasi string, fungsi pustaka untuk operasi file, dan fungsi pustaka untuk operasi waktu.
 
-#### Peralatan Praktikum (dibuat list)
+#### Peralatan Praktikum
 * Laptop
 * Koneksi internet 
 * Browser
@@ -36,15 +36,10 @@ Fungsi pustaka adalah fungsi yang sudah disediakan oleh bahasa pemrograman C. Fu
 * C Compiler
 
 #### Hasil Praktikum
-| Nama File | Deskripsi | Screenshoot Output |
-|-----------|-----------|--------------------|
-| 1.c       |           |                    |
-| 2.c       |           |                    |
-| 3.c       |           |                    |
+| Nama File       | Screenshoot Output |
+|-----------------|--------------------|
+| final_program.c | ![](screenshot/Screen Shot 2022-09-24 at 23.44.50.png) |
 
 
 #### Kesimpulan
 Dari hasil praktikum diatas dapat disimpulkan bahwa bahasa C merupakan bahasa yang kaya dengan operator. Dengan operator tersebut dapat mempermudah dalam menyelesaikan permasalahan sehari-hari.
-
-
-
