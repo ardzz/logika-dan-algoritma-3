@@ -1,4 +1,4 @@
-### JOBSHEET 3 LOGIKA DAN ALGORITMA OPERATOR DAN UNGKAPAN
+### JOBSHEET 3 - LOGIKA DAN ALGORITMA OPERATOR DAN UNGKAPAN
 <p align="center">
     <img src="https://github.com/ardzz/dasar-pemrogaman-2/raw/master/images/logo-polines.png" alt="Logo Polines" width="300" height="300">
 </p>
