@@ -4,4 +4,4 @@ project(Job_Sheet_3 C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(Job_Sheet_3
-        fungsi_pusataka.c)
+        konversi_tipe_data_dengan_penugasan.c)

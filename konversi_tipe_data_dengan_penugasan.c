@@ -5,7 +5,7 @@ int main(){
     int bilangan_bulat;
     float bilangan_riil;
 
-    bilangan_riil = 3.14;
+    bilangan_riil = 78.3;
     bilangan_bulat = bilangan_riil;
     karakter = bilangan_bulat;
 

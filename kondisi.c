@@ -8,13 +8,13 @@ int main(){
     printf("nilai_1 = %d\n", nilai_1);
 
     nilai_1 = 3 > 5;
-    printf("nilai_1 = %d", nilai_1);
+    printf("nilai_1 = %d\n", nilai_1);
 
     nilai_2 = 5 > 3;
-    printf("nilai_2 = %d", nilai_2);
+    printf("nilai_2 = %d\n", nilai_2);
 
     nilai_2 = 3 > 5;
-    printf("nilai_2 = %d", nilai_2);
+    printf("nilai_2 = %d\n", nilai_2);
 
     return 0;
 }

@@ -36,10 +36,14 @@ Fungsi pustaka adalah fungsi yang sudah disediakan oleh bahasa pemrograman C. Fu
 * C Compiler
 
 #### Hasil Praktikum
-| Nama File       | Screenshoot Output |
-|-----------------|--------------------|
-| final_program.c | ![](screenshot/Screen Shot 2022-09-24 at 23.44.50.png) |
-
+| Nama File                             | Screenshoot Output                                             |
+|---------------------------------------|----------------------------------------------------------------|
+| final_program.c                       | <img src="screenshot/Screen Shot 2022-09-24 at 23.44.50.png"/> |
+| fungsi_pustaka.c                      | <img src="screenshot/Screen Shot 2022-09-24 at 23.55.00.png"/> |
+| komplemen.c                           | <img src="screenshot/Screen Shot 2022-09-24 at 23.56.24.png"/> |
+| kondisi.c                             | <img src="screenshot/Screen Shot 2022-09-24 at 23.58.16.png"/> |
+| konversi_suhu.c                       | <img src="screenshot/Screen Shot 2022-09-25 at 00.00.42.png"/> |
+| konversi_tipe_data_dengan_penugasan.c | <img src="screenshot/Screen Shot 2022-09-25 at 00.06.55.png"/> |
 
 #### Kesimpulan
 Dari hasil praktikum diatas dapat disimpulkan bahwa bahasa C merupakan bahasa yang kaya dengan operator. Dengan operator tersebut dapat mempermudah dalam menyelesaikan permasalahan sehari-hari.
