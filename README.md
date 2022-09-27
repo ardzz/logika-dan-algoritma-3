@@ -10,6 +10,9 @@
 | NIM      | 4.33.22.0.21        |
 | Kelas    | TI-1A               |
 
+**PROGRAM STUDI TEKNIK INFORMATIKA JURUSAN TEKNIK ELEKTRO POLITEKNIK NEGERI SEMARANG - 2022**
+
+
 #### Tujuan
 1. Mahasiswa mampu memahami dan menerapkan operator dan ungkapan dalam bahasa pemrograman C
 
